@@ -1,0 +1,66 @@
+Reservoir Description
+Fluid type : Single-phase Oil
+Well orientation : Vertical
+Number of wells : 1
+Number of layers : 1
+
+
+Layer Parameters Data
+                               Layer 1               
+Formation thickness              100.00 ft           
+Average formation porosity         0.23              
+Water saturation                   0.90              
+Gas saturation                     0.00              
+Formation compressibility          0.0000 psi-1      
+Total system compressibility   1.3000e-5 psi-1       
+Layer pressure                     0.0000 psia       
+Temperature                      260.0000 deg F      
+
+
+Well Parameters Data
+                                           Well 1                
+Well radius                                    0.35 ft           
+Distance from observation to active well       0.0000 ft         
+Wellbore storage coefficient                   0.00 bbl/psi      
+Well offset - x direction                      0.00 ft           
+Well offset - y direction                      0.00 ft           
+
+
+Fluid Parameters Data
+                                Layer 1                 
+Oil gravity                         0.0000 API          
+Gas gravity                         0.0000 sp grav      
+Gas-oil ratio (produced)            0.0000 scf/STB      
+Water cut                           0.0000              
+Water salinity                      0.0000 ppm          
+Check Pressure                      0.0000 psia         
+Check Temperature                 260.0000 deg F        
+Gas-oil ratio (solution)            0.0000 scf/STB      
+Bubble-point pressure               0.0000 psia         
+Oil density                       0.000 lb/ft3          
+Oil viscosity                     0.490 cp              
+Oil formation volume factor       1.300 RB/STB          
+Gas density                       0.000 lb/ft3          
+Gas viscosity                   0.0 cp                  
+Gas formation volume factor       0.000 ft3/scf         
+Water density                     0.000 lb/ft3          
+Water viscosity                   0.000 cp              
+Water formation volume factor     0.000 RB/STB          
+Oil compressibility                 0.0000 psi-1        
+Initial Gas compressibility         0.0000 psi-1        
+Water compressibility               0.0000 psi-1        
+Layer 1 Correlations
+Not Used
+
+
+Rate Change Data
+Time       	Pressure   	Rate       	
+Hours      	psia       	STB/day    	
+0.00000    	 5189.0928 	 8000.0000 	
+6.50000    	 5068.0879 	 8000.0000 	
+6.93300    	 5149.7598 	    0.0000 	
+16.26700   	 4995.1660 	1.5000e4   	
+18.23300   	 4790.0132 	2.5000e4   	
+18.63300   	 5088.0200 	    0.0000 	
+26.83300   	 4759.8721 	2.5000e4   	
+44.30000   	 5192.0552 	    0.0000 	

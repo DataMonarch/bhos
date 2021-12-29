@@ -1,0 +1,10 @@
+#!VERSION=v6.3 mod 2.00
+"%d %s %s %s"
+"MODE" "FILENAME" "NAME" "UWI" 
+""
+3 "X-Field.W01" "X-1" "X-1"
+3 "X-Field.W02" "X-2" "X-2"
+3 "X-Field.W03" "X-3" "X-3"
+3 "X-Field.W04" "X-4" "X-4"
+3 "X-Field.W05" "X-5" "X-5"
+3 "X-Field.W06" "X-6" "X-6"

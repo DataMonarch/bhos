@@ -1,0 +1,11 @@
+#!VERSION=v6.3
+"%d %s %s"
+"MODE" "FILENAME" "NAME" 
+""
+4 "X-Field.Z01" "The X-Field"
+-4 "X-Field.Z02" ""
+-4 "X-Field.Z03" ""
+-4 "X-Field.Z04" ""
+-4 "X-Field.Z05" ""
+-4 "X-Field.Z06" ""
+-4 "X-Field.Z07" ""

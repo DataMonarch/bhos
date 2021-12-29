@@ -1,0 +1,1 @@
+#!VERSION=v6.10mod0"%d %s %s %s %s %s""NUMBER" "ALIAS1" "ALIAS2" "ALIAS3" "ALIAS4" "ALIAS5" ""82 "LL9S" "I6FR" " " " " " "86 "LL9D" " " " " " " " "87 "KAH" "KH" " " " " " "88 "HEPOR" "KV" " " " " " "89 "GD" "CPOR" " " " " " "12 "LL9D" " " " " " " " "
