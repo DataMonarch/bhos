@@ -9,3 +9,6 @@ plt.plot(y, x)
 plt.plot(x, y)
 
 This is a buggy line
+
+def blah(x):
+    return x*1000
