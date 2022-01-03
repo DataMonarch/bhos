@@ -12,3 +12,6 @@ plt.plot(x, y)
 
 plt.hist(z.flatten())
 plt.imshow(z)
+
+def blah(x):
+    return x // 7
