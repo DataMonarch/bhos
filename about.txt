@@ -6,4 +6,4 @@ Alright, now we are at a development branch, folks!
 
 Weelll, let's see what happens!
 
-Creating conflicting commits thorugh Github
+Hey there! This is a conflicting commit
