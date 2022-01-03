@@ -5,3 +5,5 @@ Oh, and also, you may find some actually useful resources to lessen the burden o
 Alright, now we are at a development branch, folks!
 
 Weelll, let's see what happens!
+
+Hey there! This is a conflicting commit
